@@ -3,17 +3,17 @@ import requests
 # Telegram Bot API Configuration
 TELEGRAM_BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
 TELEGRAM_CHANNELS = {
-    1: '@channel1',  # Replace with Channel 1 username or ID
-    2: '@channel2',  # Replace with Channel 2 username or ID
-    3: '@channel3',  # Replace with Channel 3 username or ID
+    1: '@channel1',  # Grand Canal
+    2: '@channel2',  # Canal Sec A
+    3: '@channel3',  # Canal Sec B
 }
 
 # Facebook Graph API Configuration
 FACEBOOK_ACCESS_TOKEN = 'YOUR_FACEBOOK_ACCESS_TOKEN'
 FACEBOOK_GROUPS = {
-    1: 'group_id_1',  # Replace with Group ID for Channel 1
-    2: 'group_id_2',  # Replace with Group ID for Channel 2
-    3: 'group_id_3',  # Replace with Group ID for Channel 3
+    1: '481647476839966',  # Grand Groupe
+    2: '885053319136245',  # Group Sec A
+    3: '640362107519305',  # Group Sec B
 }
 
 # API Endpoints
