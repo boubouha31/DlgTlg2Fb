@@ -3,9 +3,9 @@ import requests
 # Telegram Bot API Configuration
 TELEGRAM_BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
 TELEGRAM_CHANNELS = {
-    1: '@channel1',  # Grand Canal
-    2: '@channel2',  # Canal Sec A
-    3: '@channel3',  # Canal Sec B
+    1: '-1002493208308',  # Grand Canal
+    2: '-1002447657069',  # Canal Sec A
+    3: '-1002273429505',  # Canal Sec B
 }
 
 # Facebook Graph API Configuration
